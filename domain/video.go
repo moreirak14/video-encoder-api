@@ -6,5 +6,5 @@ type Video struct {
 	ID         string
 	ResourceID string
 	FilePath   string
-	CreateadAt time.Time
+	CreatedAt  time.Time
 }
